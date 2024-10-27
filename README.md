@@ -15,10 +15,18 @@ For the future, I hope to be a policy analyst or work within the data privacy se
 ## What I Hope To Learn
 Through this data visualization course, I aim to enhance my ability to design compelling visual narratives that effectively communicate and persuade my audience. While I currently rely on creating various graphs in R and Python, I feel that this is not enough to meet my career goal of becoming a public policy analyst who can inspire others to adopt evidence-based thinking and trust in my analysis.
 
-## Protfolio 
+I want to:
+1. Learn to present complex data in a way that is easy to understand.
+2. Learn to present data honestly without misleading or misrepresenting it.
+3. Obtain all the necessary skills to ensure that my visualizations have the power to make some change (no matter how small it is)
+
+## Portfolio 
+
+## Examples
 
 #### My Work 1 
 #### My Work 2
 #### My Work 3 
 #### My Work 4 
 
+#### Final Project 
