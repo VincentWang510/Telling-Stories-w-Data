@@ -26,7 +26,8 @@ I want to:
 
 ## Examples
 
-#### My Work 1 
+#### Assignment 2: Visualising Government Data
+![Government Debt Ratio](General_Government_Debt.png)
 [Click here!](Visualising Government Debt)  
 #### My Work 2
 #### My Work 3 
