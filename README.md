@@ -27,7 +27,7 @@ I want to:
 ## Examples
 
 #### My Work 1 
-[Click here!](Visualising Government Debt)
+[Click here!](Visualising Government Debt)  
 #### My Work 2
 #### My Work 3 
 #### My Work 4 
